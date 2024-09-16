@@ -1,0 +1,41 @@
+{
+    "charts": {},
+    "test": {},
+    "incubator": {},
+    "premium": {},
+    "stable": {
+        "duplicati": {
+            "app_readme": "<p>Store securely encrypted backups on cloud storage services!</p>\n<p>This App is supplied by TrueCharts, for more information visit the manual: <a href=\"https://truecharts.org/charts/stable/duplicati\">https://truecharts.org/charts/stable/duplicati</a></p>\n<hr />\n<p>TrueCharts can only exist due to the incredible effort of our staff.\nPlease consider making a <a href=\"https://truecharts.org/sponsor\">donation</a> or contributing back to the project any way you can!</p>",
+            "categories": [
+                "media"
+            ],
+            "description": "Store securely encrypted backups on cloud storage services!",
+            "healthy": true,
+            "healthy_error": null,
+            "home": "https://truecharts.org/charts/stable/duplicati",
+            "location": "/home/runner/_work/catalog/catalog/stable/duplicati",
+            "latest_version": "14.0.10",
+            "latest_app_version": "latest",
+            "latest_human_version": "latest_14.0.10",
+            "last_update": "2024-05-29 12:35:14",
+            "name": "duplicati",
+            "recommended": false,
+            "title": "Duplicati",
+            "maintainers": [
+                {
+                    "name": "TrueCharts",
+                    "email": "info@truecharts.org",
+                    "url": "https://truecharts.org"
+                }
+            ],
+            "tags": [],
+            "screenshots": [],
+            "sources": [
+                "https://github.com/duplicati/duplicati",
+                "https://github.com/truecharts/charts/tree/master/charts/stable/duplicati",
+                "https://hub.docker.com/r/duplicati/duplicati"
+            ],
+            "icon_url": "https://truecharts.org/img/hotlink-ok/chart-icons/duplicati.webp"
+        }
+    }
+}
